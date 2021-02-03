@@ -1,4 +1,4 @@
-# CoLA BERT FastAPI
+# BERT FastAPI
 
 This repository demonstrates a minimal example of how to deploy a fine-tuned BERT model using FastAPI. 
 
