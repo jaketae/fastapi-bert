@@ -1,0 +1,35 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2020.12.5-h033912b_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/libcxx-10.0.0-1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/xz-5.2.5-h1de35cc_0.conda
+https://conda.anaconda.org/conda-forge/osx-64/yaml-0.2.5-haf1e3a3_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/zlib-1.2.11-h1de35cc_3.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libffi-3.3-hb1e8313_2.conda
+https://repo.anaconda.com/pkgs/main/osx-64/ncurses-6.2-h0a44026_1.conda
+https://conda.anaconda.org/conda-forge/osx-64/openssl-1.1.1i-h35c211d_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/tk-8.6.10-hb0a8c7a_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libedit-3.1.20191231-h1de35cc_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/readline-8.0-h1de35cc_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/sqlite-3.33.0-hffcf06c_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/python-3.7.9-h26836e1_0.conda
+https://conda.anaconda.org/conda-forge/noarch/click-7.1.2-pyh9f0ad1d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/h11-0.12.0-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.7-1_cp37m.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/starlette-base-0.13.6-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/typing_extensions-3.7.4.3-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/watchgod-0.6-py_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/noarch/wheel-0.36.0-pyhd3eb1b0_0.conda
+https://conda.anaconda.org/conda-forge/osx-64/certifi-2020.12.5-py37hf985489_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/httptools-0.1.1-py37hf967b71_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pydantic-1.7.3-py37he6e4e01_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/python-dotenv-0.15.0-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pyyaml-5.4.1-py37hf967b71_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/uvloop-0.14.0-py37he6e4e01_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/websockets-8.1-py37hf967b71_3.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/fastapi-0.63.0-pyhd8ed1ab_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/setuptools-50.3.2-py37hecd8cb5_2.conda
+https://conda.anaconda.org/conda-forge/osx-64/uvicorn-0.13.3-py37hf985489_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/pip-20.3-py37hecd8cb5_0.conda
