@@ -1,4 +1,4 @@
-# BERT FastAPI
+# FastAPI BERT
 
 This repository demonstrates a minimal example of how to deploy a fine-tuned BERT model using FastAPI. 
 
