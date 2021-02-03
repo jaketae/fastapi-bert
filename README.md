@@ -7,7 +7,7 @@ This repository demonstrates a minimal example of how to deploy a fine-tuned BER
 Clone the repository via
 
 ```
-git clone
+git clone https://github.com/jaketae/fastapi-bert.git
 ```
 
 Using [conda](https://docs.conda.io/en/latest/), create a new virtual environment and install dependencies specified in `spec-file.txt` via
